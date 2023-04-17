@@ -1,9 +1,16 @@
 # DataEngineeringBootcamp
 
-For Videos please go to our Etherpad.
+For Videos and in-class discussion please go to our Etherpad.
 
 https://etherpad.univ.ai/p/DataEngineeringBootcamp
 
+The password for this etherpad is on the discord forum and has been distributed in class.
+
+For a forum to discuss topics from the class please go to the following forum on our discord:
+
+https://discord.com/channels/857575846658834452/1097520656536571927
+
+Discord Invite link is on the Etherpad above. 
 
 Session 1:
 
