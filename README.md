@@ -22,4 +22,10 @@ Notebook: <https://colab.research.google.com/drive/1jwcUHGiteJ3EBY2Q-4_JhaSzYXAD
 
 Homework: <https://colab.research.google.com/drive/1alDSQpgSFtZFFuJ7Fhcx8odS0fRkvN_3?usp=sharing>
 
+Session 2:
+
+pdf files in this repo: 02* and 03*
+
+Notebook: https://colab.research.google.com/drive/1uFnDvL02fcfIOGklAaH6vUSz5-qrRe8s?usp=sharing
+
 Data Files for the homework are in data folder.
