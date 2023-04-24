@@ -29,3 +29,7 @@ pdf files in this repo: 02* and 03*
 Notebook: https://colab.research.google.com/drive/1uFnDvL02fcfIOGklAaH6vUSz5-qrRe8s?usp=sharing
 
 Data Files for the homework are in data folder.
+
+Session 3:
+
+pdf files 03* and 04*
