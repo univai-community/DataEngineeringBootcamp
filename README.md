@@ -33,3 +33,9 @@ Data Files for the homework are in data folder.
 Session 3:
 
 pdf files 03* and 04*
+
+Session 4:
+
+pdf files 3b and 4
+
+Notebook: https://drive.google.com/file/d/1JEBdBU4aOqVrxkIBpsWGfCitO_Mo0MUZ/view?usp=sharing
