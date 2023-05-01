@@ -39,3 +39,10 @@ Session 4:
 pdf files 3b and 4
 
 Notebook: https://drive.google.com/file/d/1JEBdBU4aOqVrxkIBpsWGfCitO_Mo0MUZ/view?usp=sharing
+
+
+Session 5:
+
+pdf files 5 and 6
+
+https://colab.research.google.com/drive/1-UPl-uamWZ8HOUEs7rwP5UNgZqnbG2Kb?usp=sharing
