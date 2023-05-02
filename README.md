@@ -46,3 +46,9 @@ Session 5:
 pdf files 5 and 6
 
 https://colab.research.google.com/drive/1-UPl-uamWZ8HOUEs7rwP5UNgZqnbG2Kb?usp=sharing
+
+Session 6:
+
+pdf files 6 and 7
+
+https://colab.research.google.com/drive/1cAGeevReAd-2rUp_RyTuOBCUtlUHxtoa?usp=sharing
